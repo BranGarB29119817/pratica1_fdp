@@ -1,4 +1,4 @@
-main ()
-(
-printf(Hola Mundo\n');
-)
+int main ()
+{
+printf('Hola Mundo\n');
+}
